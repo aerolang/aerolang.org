@@ -12,7 +12,7 @@ same concurrent properties of Erlang, but with statically typed guarantees.
 > the language being stable.**
 
 You can check out the source on GitHub at
-[bbridges/aero](https://github.com/bbridges/aero). As features land, more and
+[aerolang/aero](https://github.com/aerolang/aero). As features land, more and
 more things will be added to this site!
 
 ## A Glimpse
@@ -33,7 +33,7 @@ $ aero compile hello.aero --escript && ./out/bin/hello
 Hello, World!
 ```
 
-See the [Aero source repository](https://github.com/bbridges/aero) on how to get
+See the [Aero source repository](https://github.com/aerolang/aero) on how to get
 started.
 
 ## What's different about Aero?
@@ -41,7 +41,7 @@ started.
 In the Erlang world, many statically type languages have been popping up, such
 as [Alpaca](https://github.com/alpaca-lang/alpaca),
 [Gleam](https://github.com/gleam-lang/gleam),
-and [Hamler](https://github.com/hamler-lang/hamler). Each as done great things
+and [Hamler](https://github.com/hamler-lang/hamler). Each has done great things
 to get people on board the type safety train.
 
 The goal of Aero is to provide the same foundation seen in the languages listed,
